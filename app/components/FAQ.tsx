@@ -57,7 +57,7 @@ export default function FAQ() {
         'Yes! We offer comprehensive support packages including regular updates, security monitoring, backup services, and technical support. Our maintenance plans start from $49/month and can be customized to your specific needs.',
     },
     {
-      question: "What's included in your social media management service?",
+  question: "What&apos;s included in your social media management service?",
       answer:
         'Our social media management includes content creation, posting schedule management, engagement with followers, analytics reporting, hashtag research, and strategy development. We manage up to 3 platforms with our standard package.',
     },

@@ -74,7 +74,7 @@ export default function Contact() {
           Get In Touch
         </h2>
         <p className="text-center text-text-muted text-lg mb-16">
-          Let's Discuss Your Next Project
+          {"Let's Discuss Your Next Project"}
         </p>
 
         <div
@@ -113,7 +113,7 @@ export default function Contact() {
           {showSuccess && (
             <div className="mb-6 p-4 rounded-lg bg-success text-white flex items-center gap-3 animate-[fadeInUp_0.3s_ease]">
               <i className="fas fa-check-circle text-2xl" />
-              <span>Thank you! Your message has been sent successfully. We'll get back to you soon!</span>
+              <span>{"Thank you! Your message has been sent successfully. We'll get back to you soon!"}</span>
             </div>
           )}
 

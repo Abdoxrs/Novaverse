@@ -30,12 +30,12 @@ export default function About() {
             </p>
             <p>
               Our journey began with a simple vision: to make professional digital services
-              accessible to everyone. Today, we're proud to offer comprehensive solutions that cover
+              accessible to everyone. Today, we&apos;re proud to offer comprehensive solutions that cover
               everything from web development to mobile apps, all managed under one roof for your
               convenience.
             </p>
             <p>
-              We don't just build websites and apps - we craft digital experiences that tell your
+              We don&apos;t just build websites and apps - we craft digital experiences that tell your
               story, engage your audience, and drive real business results. Every project is a
               partnership, and every client becomes part of the NovaVerse family.
             </p>

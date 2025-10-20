@@ -11,7 +11,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-semibold accent-gradient-text mb-4">NovaVerse</h3>
             <p className="text-text-muted leading-relaxed">
-              Transforming ideas into digital reality. We're your partners in innovation, helping
+              {"Transforming ideas into digital reality. We're your partners in innovation, helping"}
               businesses thrive in the digital age with cutting-edge solutions and creative
               strategies.
             </p>

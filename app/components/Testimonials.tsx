@@ -21,7 +21,7 @@ function TestimonialCard({ text, author, role, index }: TestimonialCardProps) {
       }`}
     >
       {/* Quote mark */}
-      <div className="absolute top-2 left-6 text-6xl text-accent-purple/30 font-serif">"</div>
+  <div className="absolute top-2 left-6 text-6xl text-accent-purple/30 font-serif">{"\u201C"}</div>
 
       {/* Stars */}
       <div className="flex justify-center gap-1 text-yellow-400 text-lg mb-6">
