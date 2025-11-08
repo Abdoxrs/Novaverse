@@ -60,7 +60,7 @@ export default function Navbar() {
           <Link href="#home" className="flex items-center transition-transform hover:scale-105 overflow-visible">
             {/* Keep navbar height controlled by a small wrapper, let the logo overflow and scale visually */}
             <div className="h-16 w-16 sm:h-20 sm:w-20 md:h-22 md:w-22 relative overflow-visible">
-              <div className="absolute inset-0 flex items-center justify-center scale-125 sm:scale-125 md:scale-150">
+              <div className="absolute inset-0 flex items-center justify-center scale-150 sm:scale-175 md:scale-200">
                 <Image
                   src="/logo.png"
                   alt="NovaVerse Logo"

@@ -60,7 +60,7 @@ export default function Team() {
       socials: [
         { platform: 'LinkedIn', icon: 'fab fa-linkedin-in', url: '#' },
         { platform: 'GitHub', icon: 'fab fa-github', url: '#' },
-        { platform: 'Twitter', icon: 'fab fa-x-twitter', url: '#' },
+        { platform: 'Instagram', icon: 'fab fa-instagram', url: '#' },
       ],
     },
     {

@@ -56,7 +56,7 @@ export default function Contact() {
 
   const socialLinks = [
     { icon: 'fab fa-facebook-f', url: '#', label: 'Facebook', color: 'hover:bg-[#1877F2]' },
-    { icon: 'fab fa-x-twitter', url: '#', label: 'Twitter', color: 'hover:bg-white hover:text-black' },
+    { icon: 'fab fa-twitter', url: '#', label: 'Twitter', color: 'hover:bg-[#1877F2]' },
     { icon: 'fab fa-linkedin-in', url: '#', label: 'LinkedIn', color: 'hover:bg-[#0A66C2]' },
     {
       icon: 'fab fa-instagram',
@@ -79,9 +79,8 @@ export default function Contact() {
 
         <div
           ref={ref}
-          className={`transition-all duration-700 ${
-            inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
-          }`}
+          className={`transition-all duration-700 ${inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
+            }`}
         >
           {/* Contact Info */}
           <div className="text-center mb-12">

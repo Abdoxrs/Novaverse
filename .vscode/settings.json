@@ -2,7 +2,8 @@
   "tailwindCSS.includeLanguages": {
     "typescript": "javascript",
     "typescriptreact": "html",
-    "javascriptreact": "html"
+    "javascriptreact": "html",
+    "css": "css"
   },
   "editor.quickSuggestions": {
     "strings": true,
@@ -66,10 +67,6 @@
     "editor.tabSize": 2,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "react-native-tools.showUserTips": false,
-    "editor.quickSuggestions": {
-        "comments": "off",
-        "strings": "off"
-    },
     "explorer.confirmPasteNative": false,
     "editor.suggest.showWords": false,
     "diffEditor.ignoreTrimWhitespace": true,
@@ -97,22 +94,18 @@
         "rgba(171, 71, 188, 0.09)",
         "rgba(255, 138, 101, 0.09)"
     ],
-    "tailwindCSS.includeLanguages": {
-        "css": "css"
-    },
     "window.border": "system",
     "editor.minimap.showSlider": "always",
     "editor.minimap.renderCharacters": false,
     "workbench.panel.showLabels": false,
     "diffEditor.renderSideBySide": false,
-    "tailwindCSS.emmetCompletions": true,
     "tailwindCSS.experimental.configFile": "tsx",
     "clangd.path": "c:\\Users\\AbdoX\\AppData\\Roaming\\Cursor\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\20.1.8\\clangd_20.1.8\\bin\\clangd.exe",
-    "workbench.colorTheme": "cursor-dark",
+    "workbench.colorTheme": "Default High Contrast",
     "workbench.activityBar.location": "top",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "terminal.integrated.suggest.enabled": true,
     "appMap.selectedModel": "copilot:claude-3.5-sonnet",
     "git.enabled": true,
-    "editor.minimap.size": "fill"
+    "editor.minimap.size": "proportional"
 }
